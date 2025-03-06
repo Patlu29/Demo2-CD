@@ -14,3 +14,6 @@ dic = {
 
 for key, value in dic, dic.values() :
     print(key, value)
+
+array3 = [(i, j) for i, j in (dic, dic.values())]
+print(array3)

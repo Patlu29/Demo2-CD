@@ -11,3 +11,6 @@ dic = {
     'two': 2
 }
 
+
+for key, value in dic, dic.values() :
+    print(key, value)

@@ -5,3 +5,4 @@ array2 = {
     "name": "uma",
     "age": 20
 }
+print(array1)

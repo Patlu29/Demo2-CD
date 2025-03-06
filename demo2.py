@@ -5,3 +5,9 @@ name = "prakash"
 
 array2 = [i for i in name]
 print(array2)
+
+dic = {
+    "one": 1,
+    'two': 2
+}
+
